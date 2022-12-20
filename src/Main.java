@@ -4,9 +4,9 @@ public class Main {
         Venus v = new Venus();
         Earth e = new Earth();
         Mars ma = new Mars();
+        Jupiter j=new Jupiter();
 
-
-        System.out.println(m.planet1 + " " + v.planet2 + " " + e.planet3+" "+ ma.planet4);
-
+        System.out.println(m.planet1 + " " + v.planet2 + " " + e.planet3+" "+ ma.planet4+ " "+j.planet5);
+        System.out.println("Mina");
     }
 }
